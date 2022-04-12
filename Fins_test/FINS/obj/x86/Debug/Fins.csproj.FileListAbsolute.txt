@@ -1,0 +1,7 @@
+D:\xuanyu\mdep\Debug\Fins.dll
+D:\xuanyu\mdep\Debug\Fins.pdb
+D:\xuanyu\mdep\FINS\obj\x86\Debug\Fins.csprojResolveAssemblyReference.cache
+D:\xuanyu\mdep\FINS\obj\x86\Debug\Fins.Resources.resources
+D:\xuanyu\mdep\FINS\obj\x86\Debug\Fins.csproj.GenerateResource.Cache
+D:\xuanyu\mdep\FINS\obj\x86\Debug\Fins.dll
+D:\xuanyu\mdep\FINS\obj\x86\Debug\Fins.pdb

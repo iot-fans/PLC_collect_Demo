@@ -1,0 +1,9 @@
+D:\Test\FX_test\FX_test\bin\Debug\FX_test.exe.config
+D:\Test\FX_test\FX_test\bin\Debug\FX_test.exe
+D:\Test\FX_test\FX_test\bin\Debug\FX_test.pdb
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.Form1.resources
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.Properties.Resources.resources
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.csproj.GenerateResource.Cache
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.exe
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.pdb
+D:\Test\FX_test\FX_test\obj\Debug\FX_test.csprojResolveAssemblyReference.cache

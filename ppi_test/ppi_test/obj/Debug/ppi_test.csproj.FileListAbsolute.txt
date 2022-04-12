@@ -1,0 +1,9 @@
+D:\Test\ppi_test\ppi_test\bin\Debug\ppi_test.exe.config
+D:\Test\ppi_test\ppi_test\bin\Debug\ppi_test.exe
+D:\Test\ppi_test\ppi_test\bin\Debug\ppi_test.pdb
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.Form1.resources
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.Properties.Resources.resources
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.csproj.GenerateResource.Cache
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.exe
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.pdb
+D:\Test\ppi_test\ppi_test\obj\Debug\ppi_test.csprojResolveAssemblyReference.cache

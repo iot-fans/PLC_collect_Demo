@@ -1,0 +1,11 @@
+D:\Test\Fins_test\FINS\obj\Debug\Fins.Resources.resources
+D:\Test\Fins_test\FINS\obj\Debug\Fins.csproj.GenerateResource.Cache
+D:\Test\Fins_test\EDCS\bin\Debug\Fins.dll
+D:\Test\Fins_test\EDCS\bin\Debug\Fins.pdb
+D:\Test\Fins_test\FINS\obj\Debug\Fins.dll
+D:\Test\Fins_test\FINS\obj\Debug\Fins.pdb
+D:\Test\Fins_test\Debug\Fins.dll
+D:\Test\Fins_test\Debug\Fins.pdb
+D:\Test\Fins_test\FINS\bin\Debug\Fins.dll
+D:\Test\Fins_test\FINS\bin\Debug\Fins.pdb
+D:\Test\Fins_test\FINS\obj\Debug\Fins.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Test\Modbus_test\Modbus_test\bin\Debug\Modbus_test.exe.config
+D:\Test\Modbus_test\Modbus_test\bin\Debug\Modbus_test.exe
+D:\Test\Modbus_test\Modbus_test\bin\Debug\Modbus_test.pdb
+D:\Test\Modbus_test\Modbus_test\obj\Debug\Modbus_test.Form1.resources
+D:\Test\Modbus_test\Modbus_test\obj\Debug\Modbus_test.Properties.Resources.resources
+D:\Test\Modbus_test\Modbus_test\obj\Debug\Modbus_test.csproj.GenerateResource.Cache
+D:\Test\Modbus_test\Modbus_test\obj\Debug\Modbus_test.exe
+D:\Test\Modbus_test\Modbus_test\obj\Debug\Modbus_test.pdb

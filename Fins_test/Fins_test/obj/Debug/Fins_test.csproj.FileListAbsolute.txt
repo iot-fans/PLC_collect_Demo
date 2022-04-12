@@ -1,0 +1,15 @@
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins_test.exe.config
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins_test.exe
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins_test.pdb
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.Properties.Resources.resources
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.csproj.GenerateResource.Cache
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.exe
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.pdb
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins.dll
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins.pdb
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.csprojResolveAssemblyReference.cache
+D:\Test\Fins_test\Fins_test\obj\Debug\Fins_test.Form1.resources
+D:\Test\Fins_test\Debug\Fins_test.exe.config
+D:\Test\Fins_test\Debug\Fins_test.exe
+D:\Test\Fins_test\Debug\Fins_test.pdb
+D:\Test\Fins_test\Fins_test\bin\Debug\Fins.xml

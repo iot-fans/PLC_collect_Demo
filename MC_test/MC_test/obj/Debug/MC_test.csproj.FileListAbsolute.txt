@@ -1,0 +1,12 @@
+D:\Test\MC_test\MC_test\bin\Debug\MC_test.exe.config
+D:\Test\MC_test\MC_test\bin\Debug\MC_test.exe
+D:\Test\MC_test\MC_test\bin\Debug\MC_test.pdb
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.csprojResolveAssemblyReference.cache
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.Form1.resources
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.Properties.Resources.resources
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.csproj.GenerateResource.Cache
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.exe
+D:\Test\MC_test\MC_test\obj\Debug\MC_test.pdb
+D:\Test\MC_test\Debug\MC_test.exe.config
+D:\Test\MC_test\Debug\MC_test.exe
+D:\Test\MC_test\Debug\MC_test.pdb

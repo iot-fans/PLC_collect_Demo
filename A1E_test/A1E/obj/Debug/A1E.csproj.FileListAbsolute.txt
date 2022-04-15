@@ -1,0 +1,12 @@
+D:\Test\A1E\A1E\bin\Debug\A1E.exe.config
+D:\Test\A1E\A1E\bin\Debug\A1E.exe
+D:\Test\A1E\A1E\bin\Debug\A1E.pdb
+D:\Test\A1E\A1E\obj\Debug\A1E.Form1.resources
+D:\Test\A1E\A1E\obj\Debug\A1E.Properties.Resources.resources
+D:\Test\A1E\A1E\obj\Debug\A1E.csproj.GenerateResource.Cache
+D:\Test\A1E\A1E\obj\Debug\A1E.exe
+D:\Test\A1E\A1E\obj\Debug\A1E.pdb
+D:\Test\A1E\Debug\A1E.exe.config
+D:\Test\A1E\Debug\A1E.exe
+D:\Test\A1E\Debug\A1E.pdb
+D:\Test\A1E\A1E\obj\Debug\A1E.csprojResolveAssemblyReference.cache
